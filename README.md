@@ -1,4 +1,4 @@
-# Aditi Mukesh Jha  
+# Aditi Jha  
 
 ## Who Am I?
 I am Aditi Jha, a junior at the College Of Wooster majoring in Computer Science with minors in Data Science and Math. I have a passion for AI and Data Science and am an international student from India.
